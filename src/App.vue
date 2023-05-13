@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
+import ElevationExample from './components/ElevationExample.vue'
 </script>
 
 <template>
